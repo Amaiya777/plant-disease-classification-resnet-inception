@@ -1,11 +1,11 @@
 # Plant Disease Classification using CNN Architectures
 
-## 📌 Overview
+##  Overview
 This project implements an image classification system to detect plant diseases using deep learning. It uses transfer learning with ResNet50 and InceptionV3 and compares their performance on the PlantVillage dataset.
 
 ---
 
-## 🚀 Features
+##  Features
 - Image classification using CNNs
 - Transfer learning with pretrained models
 - Comparison of ResNet50 and InceptionV3
@@ -14,24 +14,24 @@ This project implements an image classification system to detect plant diseases 
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 - ResNet50 (Residual Network)
 - InceptionV3 (GoogLeNet Architecture)
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Dataset: PlantVillage
 - Classes: 4
 - Training Images: ~3000
 - Validation Images: ~600
 - Test Images: ~500
 
-> ⚠️ Dataset not included due to size.
+>  Dataset not included due to size.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -39,7 +39,7 @@ This project implements an image classification system to detect plant diseases 
 
 ---
 
-## 🏋️ Training Details
+##  Training Details
 - Used pretrained ImageNet weights
 - Frozen base layers for transfer learning
 - Applied data augmentation:
