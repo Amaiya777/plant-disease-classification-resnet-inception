@@ -50,7 +50,7 @@ This project implements an image classification system to detect plant diseases 
 
 ---
 
-## 📊 Results
+##  Results
 - Achieved ~70% validation accuracy
 - Generated confusion matrix for performance evaluation
 - Compared performance of ResNet50 and InceptionV3
